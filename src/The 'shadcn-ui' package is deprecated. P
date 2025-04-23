@@ -1,0 +1,5 @@
+The 'shadcn-ui' package is deprecated. Please use the 'shadcn' package instead:
+
+   npx shadcn@latest add card
+
+For more information, visit: `https://ui.shadcn.com/docs/cli`

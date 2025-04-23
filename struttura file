@@ -1,0 +1,10 @@
+Dietologo/
+├── app.js                # Componente principale React (front-end)
+├── server.js             # Server Express (back-end API)
+├── styles.css            # File CSS con Tailwind e custom utilities
+├── package.json          # Gestione dipendenze e script npm
+├── tailwind.config.js    # Configurazione Tailwind CSS
+├── postcss.config.js     # Configurazione PostCSS
+├── .env                  # Variabili ambiente (API Key OpenAI)
+├── node_modules/         # Dipendenze npm
+└── ...                   # Altri file e cartelle di sistema/progetto

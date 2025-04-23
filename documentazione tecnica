@@ -1,0 +1,26 @@
+# Documentazione Tecnica Dietologo
+## Scelta Tailwind CSS
+Opzione 1 (rapida): È stata scelta la versione Tailwind CSS v3 per motivi di compatibilità con le dipendenze e l’ambiente di sviluppo attuale. L’aggiornamento a Tailwind v4 è stato rimandato per evitare problemi con plugin, configurazioni e componenti di terze parti che potrebbero non essere ancora pienamente compatibili.
+
+## Stack Tecnologico
+- Front-end:
+  
+  - React 18+
+  - Tailwind CSS v3
+  - framer-motion
+  - shadcn/ui
+- Back-end:
+  
+  - Node.js (Express)
+  - OpenAI SDK
+- Altre dipendenze:
+  
+  - cors
+  - dotenv
+
+
+  The 'shadcn-ui' package is deprecated. Please use the 'shadcn' package instead:
+
+   npx shadcn@latest add card
+
+For more information, visit: `https://ui.shadcn.com/docs/cli`
