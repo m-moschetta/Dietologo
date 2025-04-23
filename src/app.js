@@ -12,8 +12,8 @@
 // or the main component of a Create‑React‑App /src/App.jsx.
 
 import React, { useState } from "react";
-import { Card, CardContent } from "/Users/mariomoschetta/Documents/Dietologo/src/components/ui/card";
-import { Button } from "/Users/mariomoschetta/Documents/Dietologo/src/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 
 export default function DietPlannerApp() {
