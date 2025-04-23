@@ -44,4 +44,5 @@ const Button = React.forwardRef(({ className, variant, size, asChild = false, ..
 })
 Button.displayName = "Button"
 
+// Should export Button component like this:
 export { Button, buttonVariants }
